@@ -1,2 +1,2 @@
-https://meharsuleiman.github.io/bulb-on-off/
+https://meharsuleiman.github.io/7.bulb-on-off/
 # bulb-on-off
